@@ -4,7 +4,7 @@ A responsive tourism website that showcases Sri Lanka's top destinations, provin
 
 Built as a mini project for **EEI3346 – Web Applications Development** (Bachelor of Software Engineering, The Open University of Sri Lanka), Dec 2021 – Jan 2022. Uploaded to GitHub and polished in Oct 2026.
 
-**Live demo:** _add your GitHub Pages link here_ (`https://YOUR-USERNAME.github.io/pearl-of-indian-ocean/`)
+**Live demo:** _https://wazny-hs.github.io/pearl-of-indian-ocean/_ 
 
 ## Pages
 

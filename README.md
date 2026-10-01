@@ -63,4 +63,4 @@ This site is version 1. The plan is a full Sri Lanka tourist app with interactiv
 
 ## Author
 
-**Shaffron Wazny** – Software Engineering student, Sri Lanka
+**Shaffron Wazny** – Software Engineering Undergraduate, Sri Lanka

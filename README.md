@@ -6,11 +6,19 @@ Built as a mini project for **EEI3346 – Web Applications Development** (Bachel
 
 **Live demo:** _https://wazny-hs.github.io/pearl-of-indian-ocean/_ 
 
+## Screenshots
+
+![Home page with the full-screen slider](docs/screenshots/home-desktop.jpg)
+
+| Packages page | Home page on mobile |
+| --- | --- |
+| ![Packages page](docs/screenshots/packages-desktop.jpg) | ![Home page on a phone](docs/screenshots/home-mobile.jpg) |
+
 ## Pages
 
 | Page | What it does |
 | --- | --- |
-| Home | Full-screen auto-playing slider of Sri Lankan landscapes |
+| Home | Welcome intro, full-screen auto-playing slider of Sri Lankan landscapes and an About section |
 | Book | Trip request form (destination, group size, arrival and leaving dates) |
 | Packages | Nine province packages with highlights, ratings and prices in LKR |
 | Services | Accommodation, meals, guides, transport and adventures |
@@ -46,6 +54,8 @@ docs/             original course documentation (PDF)
 
 - Added the shared header and navigation to every page (originally only the home page had it)
 - Rebuilt the home slider so all six slides display correctly
+- Replaced the blurry slider thumbnails with six high-resolution photos (1920 px, optimised WebP)
+- Added an About section and a subtitle to the home page
 - Made JavaScript safe on every page and removed unused libraries
 - Added alt text, lazy loading, page titles and meta descriptions
 - Added form validation and a demo confirmation message
@@ -55,7 +65,11 @@ docs/             original course documentation (PDF)
 
 - Forms are front-end only: no booking, payment or login backend yet
 - Content and prices are sample data
-- Photos came from the web as part of the original coursework. Replace or credit them before any commercial use.
+- Destination, province and place photos came from the web as part of the original coursework. Replace or credit them before any commercial use.
+
+## Photo credits
+
+The six home-page slider photos are free stock photos from [Unsplash](https://unsplash.com) and [Pexels](https://www.pexels.com). Thank you to the photographers.
 
 ## Next: the full app
 
